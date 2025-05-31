@@ -1,0 +1,13 @@
+l1=['the',126,12.6,'yashvi',True]
+l2=[123,'easylearn']
+print(l1,l2)
+print(l1);print(l2)
+print(l1[1])
+print(l1[0:3])
+print(l1[3:5])
+print(l1+l2)
+print(l1*3)
+l2[0]='The'
+print(l2)
+l1[4]=False
+print(l1)
